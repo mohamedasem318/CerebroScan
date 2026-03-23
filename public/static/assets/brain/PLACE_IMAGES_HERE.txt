@@ -1,0 +1,3 @@
+Put these files here:
+- supportedexample.jpg
+- unsupportedexample.jpg
